@@ -1,6 +1,8 @@
 # TrustConnect - Service Marketplace Platform
 
 A comprehensive full-stack service marketplace platform connecting customers with trusted professionals. Built with React, TypeScript, and modern web technologies.
+![TrustConnect - Service Marketplace Platform!](screenshot.png "TrustConnect - Service Marketplace Platform")
+
 
 ## 🚀 Features Overview
 
